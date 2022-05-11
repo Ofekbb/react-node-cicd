@@ -19,7 +19,6 @@ jobs:
       - run: npm install 
       - run: cd frontend
       - run: npm install 
-      - run: npm update
       - run: npm run build
       - run: cd ..
       - run: pm2 stop 0

@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1>Hello Simple React</h1>
+      <h1>Hello Simple React!</h1>
       <h3>Welcome {userName}</h3>
       </header>
     </div>
